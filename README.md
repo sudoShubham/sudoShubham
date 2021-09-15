@@ -32,7 +32,7 @@ I'm Shubham from India, and I am a programmer. I really enjoy learning languages
 - ⚡ Fun fact: It’s all 0’s and 1’s 
 
 
-[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/sudoShubham)  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shubhampagare//)  [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/shubhamp2017)  
+[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/sudoShubham)  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shubhampagare//)  [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/shubhamp2017)  [<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='twitter' height='40'>](https://medium.com/@shubhamp2017)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sudoShubham)](https://github.com/ryo-ma/github-profile-trophy) -->
 
