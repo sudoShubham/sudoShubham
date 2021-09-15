@@ -32,7 +32,7 @@ I'm Shubham from India, and I am a programmer. I really enjoy learning languages
 - ⚡ Fun fact: It’s all 0’s and 1’s 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sudoShubham)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shubhampagare//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/shubhamp2017)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sudoShubham)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shubhampagare//)  [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/shubhamp2017)  
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sudoShubham)](https://github.com/ryo-ma/github-profile-trophy) -->
 
