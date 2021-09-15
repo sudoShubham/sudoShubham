@@ -5,7 +5,7 @@
 I'm Shubham from India, and I am a programmer. I really enjoy learning languages and frameworks like React, Angular, Express.
 
 ### ⚡ Technologies
-![Python]https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 
