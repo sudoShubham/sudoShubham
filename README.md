@@ -19,7 +19,7 @@ Skills: DSA/JS/MEAN/MERN/JAVA/SPRING
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sudoShubham)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudoShubham)](https://github.com/sudoShubham/github-readme-stats)                         -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sudoShubham&show_icons=true&count_private=true&theme=<dark>)     
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sudoShubham&show_icons=true&count_private=true&theme=dark)     
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sudoShubham)  
