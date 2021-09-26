@@ -40,3 +40,7 @@ I'm Shubham from India, and I am a programmer. I really enjoy learning languages
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sudoShubham&show_icons=true&count_private=true&theme=dark) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sudoShubham&theme=dark)
 
 ![Profile views](https://gpvc.arturio.dev/sudoShubham)
+
+<p align="center">
+  <img src="https://github.com/sudoShubham/sudoShubham/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
