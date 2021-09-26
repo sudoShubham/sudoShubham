@@ -41,6 +41,6 @@ I'm Shubham from India, and I am a programmer. I really enjoy learning languages
 
 ![Profile views](https://gpvc.arturio.dev/sudoShubham)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/sudoShubham/sudoShubham/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+</p> -->
