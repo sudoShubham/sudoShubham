@@ -22,7 +22,9 @@ I'm Shubham from India, and I am a programmer. I really enjoy learning languages
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
+<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 - 🔭 I’m currently working on AngularJs
 - 🌱 I’m currently learning Java Springs
 - 👯 I’m looking to collaborate on New frameworks
