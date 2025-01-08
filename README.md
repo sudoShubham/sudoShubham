@@ -24,7 +24,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate software engineer specializi
 ## 📈 Current Projects
 1. **docPortal**: A document management system using **Django** and **React** with **Google Drive** integration.
 2. **AI Functional Testing**: Embedding project details into a vector database to generate use cases with Llama LLM.
-3. **Upwork Freelancing**: Offering services in **Django development** and **performance engineering**.
+
 
 
 ---
